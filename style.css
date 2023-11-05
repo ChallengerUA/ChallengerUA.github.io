@@ -1,0 +1,67 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: darkslategrey ;
+    color: azure;
+  }
+ 
+  
+  h1 {
+    font-size: 2.5em;
+    margin-top: 0;
+    color: aquamarine;
+    padding-left: 13em;
+
+  }
+  
+  hr {
+    border: 1px solid rgb(230, 225, 225);
+    margin: 1em 0;
+    color: aquamarine;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: 0;
+    padding-left: 9em;
+    color: aquamarine;
+    text-decoration: underline;
+  }
+  
+  li {
+    margin-bottom: 2em;
+    padding-left: 2em;
+    color: khaki;
+    font-size: 1.1em;
+  }
+  
+  pre {
+    font-family: unset;
+    padding-left: 6em;
+    color: khaki;
+    font-size: 1em;
+  }
+  
+  ol {
+    padding-left: 9em;
+    color: azure;
+  }
+  
+  a {
+    color: violet;
+    text-decoration: none;
+    padding-right: 16em;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: azure;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin: 0.5em 0;
+  }
+
+
